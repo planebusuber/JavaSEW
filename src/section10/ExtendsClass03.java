@@ -37,7 +37,7 @@ public class ExtendsClass03 {
 	
 	System.out.println("======================================");
 	
-	Comic comic = new Comic()
+	Comic comic = new Comic();
 	}
 	
 }
