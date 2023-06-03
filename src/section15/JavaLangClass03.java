@@ -39,7 +39,7 @@ public class JavaLangClass03 {
 			System.out.println("str1 과 str2는 다르다.");
 		}
 		
-		System.out.println(System.identityHashCode(str1));
+		System.out.println("str1주소값 : "+ System.identityHashCode(str1));
 		System.out.println(System.identityHashCode(str2));
 		
 		if(str1.equals(str3)) {
