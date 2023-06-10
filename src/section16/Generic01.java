@@ -1,4 +1,4 @@
-package sectionm16;
+package section16;
 /*
  * 제네릭(generic)
  * 컴파일 시간에 타입 안정성을 보장하면서 유연성과 재사용성을 높히기 위한 기능

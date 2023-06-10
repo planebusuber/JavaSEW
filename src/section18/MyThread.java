@@ -1,4 +1,4 @@
-package sectionm18;
+package section18;
 
 public class MyThread {
 

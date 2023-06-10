@@ -1,4 +1,4 @@
-package sectionm18;
+package section18;
 /*
  * Thread(Thread)
  *  스레드는 프로그램 내에서 실행되는 프로그램 제어 흐름(실행단위)을 말한다.
